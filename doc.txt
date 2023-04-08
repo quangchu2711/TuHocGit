@@ -1,0 +1,5 @@
+2023/03/25
+
+1, Cài cywin
+- Cygwin không phải là một trình biên dịch C/C++ (khả năng biên dịch C/C++ chỉ là một phần của nó). Chính vì CygWin có khả năng biên dịch C/C++ nên khi lập trình C/C++ người ta hay cài CygWin và coi nó như một trình compiler C/C++.
+- Link cài: ""
